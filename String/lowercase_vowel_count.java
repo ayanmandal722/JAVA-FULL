@@ -18,6 +18,7 @@ public class lowercase_vowel_count {
         return count;
     }
 
+    
 
     public static void main(String[] args) {
         String str = "Ayan";

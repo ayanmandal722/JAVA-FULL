@@ -27,6 +27,8 @@ public class anagrams {
             else{
                 System.out.println("Strings are not anagrams");
             }
+
+            
         }
         else{
                 System.out.println("Strings are not anagrams");

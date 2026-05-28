@@ -23,4 +23,6 @@ class pen{
     void setTip(int newTip){
         Tip = newTip;
     }
+
+    
 }

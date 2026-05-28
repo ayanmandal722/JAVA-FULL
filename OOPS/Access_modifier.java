@@ -17,4 +17,4 @@ class User{
     public String username;
 
     private String password;
-}
+}   

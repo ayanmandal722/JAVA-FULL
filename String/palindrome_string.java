@@ -22,5 +22,6 @@ public class palindrome_string {
 
         String str = "noon";
         palindrome(str);
+        
     }
 }

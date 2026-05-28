@@ -24,6 +24,7 @@ public class shortest_path_compass {
                 x--;
             }
         }
+        
         return (float)Math.sqrt(((x1-x)*(x1-x))+((y1-y)*(y1-y)));
 
         

@@ -20,11 +20,11 @@ class Student{
 
     static String SchoolName;
 
-    void setSchoolName(String name){
+    void setName(String name){
         this.name = name;
     }
 
-    String getSchoolName(){
+    String getName(){
         return this.name;
     }
 }

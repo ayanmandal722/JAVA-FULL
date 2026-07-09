@@ -18,6 +18,6 @@ public class decimal_to_binary {
 
 
     public static void main(String[] args) {
-        DecToBin(22);
+        DecToBin(7);
     }
 }

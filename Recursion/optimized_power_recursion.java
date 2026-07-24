@@ -1,3 +1,5 @@
+//time complexity = O(log n)
+
 package Recursion;
 
 public class optimized_power_recursion {

@@ -1,4 +1,4 @@
-package Second_Order_Arrays;
+package Recursion;
 
 public class friends_pairing {
     public static void main(String[] args) {
